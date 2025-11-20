@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "project2-ecommerce",
   "version": "1.0.0",
   "description": "E-commerce API with Products and Orders - W03 Project 2 Part 1",
@@ -9,7 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed": "node seeds/seedData.js"
   },
-  "keywords": ["ecommerce", "api", "mongodb", "express", "crud"],
+  "keywords": [
+    "ecommerce",
+    "api",
+    "mongodb",
+    "express",
+    "crud"
+  ],
   "author": "Hero Dinku",
   "license": "ISC",
   "dependencies": {
